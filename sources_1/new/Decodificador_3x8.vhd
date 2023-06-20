@@ -2,7 +2,7 @@
 -- Company: 
 -- Engineer: 
 -- 
--- Create Date: 19.06.2023 16:54:18
+-- Create Date: 20.06.2023 10:26:40
 -- Design Name: 
 -- Module Name: Decodificador_3x8 - Behavioral
 -- Project Name: 
@@ -18,6 +18,18 @@
 -- 
 ----------------------------------------------------------------------------------
 
+
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+-- Uncomment the following library declaration if using
+-- arithmetic functions with Signed or Unsigned values
+--use IEEE.NUMERIC_STD.ALL;
+
+-- Uncomment the following library declaration if instantiating
+-- any Xilinx leaf cells in this code.
+--library UNISIM;
+--use UNISIM.VComponents.all;
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

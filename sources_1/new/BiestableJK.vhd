@@ -2,7 +2,7 @@
 -- Company: 
 -- Engineer: 
 -- 
--- Create Date: 19.06.2023 16:56:26
+-- Create Date: 20.06.2023 10:31:08
 -- Design Name: 
 -- Module Name: BiestableJK - Behavioral
 -- Project Name: 
@@ -51,5 +51,3 @@ begin
 
     Q <= q_internal;
 end Behavioral;
-
-
